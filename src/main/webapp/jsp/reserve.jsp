@@ -151,7 +151,7 @@
   }
 
 
-const stripe = Stripe('pk_test_51PJzXqRxoQCZUBajcLUxdVxTwrqs6s1nR8myTgu3RYCpWBUT5BnSzwRA54wGGoprbhsBxH3CrdMdxj5LTS4bNesM00gF8dvOsq');
+const stripe = Stripe('stripe public key goes here');
 
 // Create an instance of Elements.
 const elements = stripe.elements();
