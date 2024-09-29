@@ -53,8 +53,8 @@ The payment system uses **Stripe**, a secure payment processor, to handle transa
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ElnazDt/rentalCar.git
+cd rentalCar
 ```
 
 ### Install Dependencies
